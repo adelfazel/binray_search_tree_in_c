@@ -1,5 +1,5 @@
 # binray_search_tree_in_c
-This is implementation of BST in c as efficient as possible
+This is implementation of BST in C as efficient as possible
 
 Supports the following operation: 
 
